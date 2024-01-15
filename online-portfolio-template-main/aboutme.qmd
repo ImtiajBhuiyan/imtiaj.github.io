@@ -2,4 +2,38 @@
 title: "About me"
 ---
 
-Hi, This is Imtiaj U Bhuiyan. I am a PhD Student majoring in Environmetal Health Science. 
+## Imtiaj Bhuiyan
+
+![]("C:\Users\admin\Desktop\MADA Spring 2024\Github_Website\imtiaj.github.io\online-portfolio-template-main\Imtiaj.jpg")
+
+### Hello!
+
+This is Imtiaj, a 2nd year PhD student majoring in Environmental Health Science. My research interest focuses on developing and using new tools to answer emerging questions related to environmental health and infectious diseases. 
+
+### Education
+
+**PhD, Environmental Health Science.** August 2022 -- Present. University of Georgia, Athens, GA, USA.
+
+**MPH, Environmental Health.** August 2019 -- August 2021. Seoul National University, South Korea.
+
+**BS, Microbiology.** February 2014 -- April 2018. University of Dhaka, Bangladesh.
+
+
+### Ongoing research
+
+
+  1) Capturing the genomic variation present in Cryptosporidium and cryptosporidiosis.
+  
+  2) Community scaled viral sequence analysis and phylodynamics of SARS CoV-2 using wastewater-based informatics, and
+  
+  3) Dimensions: Testing the potential of pathogenic fungi to control the diversity, distribution, and abundance of tree species in a neotropical forest community. 
+
+
+### Why I've decided to join this class
+
+While I have gained some expertise in genome sequencing over the years, my data analysis skill is still below average (almost zero!)I am very much thankful to Dr. Handel for allowing me to take this class and I believe, if I can survive the semester, I'll be able to learn something that will definitely boost up my confidence to learn more about this field.  
+
+### Photo gallery? 
+
+![This is me, holding a bottleguard, one of my most favorite vegetables that I grew in my garden here at university housing last summer!]("C:\Users\admin\Desktop\MADA Spring 2024\Github_Website\imtiaj.github.io\online-portfolio-template-main\Imtiaj_garden.jpg")
+
