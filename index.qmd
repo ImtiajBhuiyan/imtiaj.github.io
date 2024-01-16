@@ -1,11 +1,10 @@
 ---
-title: "My website and data analysis portfolio"
+title: "Imtiaj's website and data analysis portfolio"
 ---
 
-# Hello
+### Hello Welcome to my website and data analysis portfolio. 
 
-Welcome to **my website** and _data analysis portfolio._ 
-
+![](Imtiaj.jpg)
 
 * Please use the `Menu Bar` above to look around.
-* Have fun!
+
