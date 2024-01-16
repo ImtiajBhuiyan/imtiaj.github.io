@@ -4,8 +4,6 @@ title: "About me"
 
 ## Imtiaj Bhuiyan
 
-![]("C:\Users\admin\Desktop\MADA Spring 2024\Github_Website\imtiaj.github.io\online-portfolio-template-main\Imtiaj.jpg")
-
 ### Hello!
 
 This is Imtiaj, a 2nd year PhD student majoring in Environmental Health Science. My research interest focuses on developing and using new tools to answer emerging questions related to environmental health and infectious diseases. 

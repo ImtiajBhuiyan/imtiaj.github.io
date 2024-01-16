@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "My website and data analysis portfolio"
 ---
 
@@ -9,3 +10,14 @@ Welcome to **my website** and _data analysis portfolio._
 
 * Please use the `Menu Bar` above to look around.
 * Have fun!
+=======
+title: "Imtiaj's website and data analysis portfolio"
+---
+
+### Hello Welcome to my website and data analysis portfolio. 
+
+![](Imtiaj.jpg)
+
+* Please use the `Menu Bar` above to look around.
+
+>>>>>>> 8d9d5ba58011bd352ae3f59bed62dc2a6909992d
